@@ -20,7 +20,7 @@ Welcome to my **Photography Portfolio**! This project showcases my passion for p
 ## 🚀 Live Demo
 
 [Visit the Live Portfolio](#)  
-(*Replace `#` with the URL if hosted online*)
+
 
 ---
 
